@@ -26,8 +26,8 @@ Hi! I'm a **full-time Bioinformatician** with a strong passion for building inte
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
 
 **Frameworks**:  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) ⭐⭐⭐⭐☆
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square) ⭐⭐⭐⭐☆
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) ⭐⭐⭐⭐☆ <br>
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square) ⭐⭐☆☆☆
 
 
 ### 📈 Data Science & ML
