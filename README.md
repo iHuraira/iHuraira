@@ -4,6 +4,15 @@ I'm a **full-time Bioinformatician** passionate about merging biological data wi
 
 ---
 
+## 🧠 Areas of Work
+
+- 🔬 Bioinformatics & Genomics  
+- 📊 Data Science & Machine Learning  
+- 💻 Front-End Development  
+- 🌐 Cloud & DevOps *(basic experience)*  
+
+---
+
 ## 🧬 Bioinformatics Focus
 
 I specialize in **microbial (bacterial) genomics**, with a hands-on approach to building scalable NGS data analysis pipelines — from **raw reads to biologically meaningful outputs**.
@@ -16,16 +25,7 @@ I specialize in **microbial (bacterial) genomics**, with a hands-on approach to 
 - Data visualization using **heatmaps**, **density plots**, and **aggregations**
 
 ---
-
-## 🧠 Areas of Work
-
-- 🔬 Bioinformatics & Genomics  
-- 📊 Data Science & Machine Learning  
-- 💻 Front-End Development  
-- 🌐 Cloud & DevOps *(basic experience)*  
-
----
-
+ 
 ## 🎯 Tech Stack
 
 ### 🖥️ Front-End
