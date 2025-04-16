@@ -1,9 +1,6 @@
 ## 🧬 From Biology to Tech
 
-I'm a **full-time Bioinformatician** passionate about merging biological data with intelligent systems.  
-While my core expertise lies in genomics and data science, I'm actively expanding into **machine learning** and **deep learning**.  
-I enjoy building end-to-end solutions that transform raw data into meaningful, accessible insights.
-
+I'm a **full-time Bioinformatician** passionate about merging biological data with intelligent systems. While my core expertise lies in genomics and data science, I'm actively expanding into **machine learning** and **deep learning**. I enjoy building end-to-end solutions that transform raw data into meaningful, accessible insights.
 
 ---
 
@@ -42,7 +39,7 @@ I specialize in **microbial (bacterial) genomics**, with a hands-on approach to 
 
 **Frameworks**:  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) `4/5`  
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square) `4/5`
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square) `2/5`
 
 ---
 
