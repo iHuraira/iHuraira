@@ -69,4 +69,5 @@ I specialize in **microbial (bacterial) genomics**, with a hands-on approach to 
 
 ---
 
-**Let’s connect** if you're working on exciting ML, bioinformatics, or full-stack data projects! I love blending science and code to build useful, insightful tools. 🤝
+**Let’s connect** [LinkedIn]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/hurrarah/)) if you're working on exciting ML, bioinformatics, or data science projects!
+
