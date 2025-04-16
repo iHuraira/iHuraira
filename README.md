@@ -69,13 +69,4 @@ I specialize in **microbial (bacterial) genomics**, with a hands-on approach to 
 
 ---
 
-## 📚 ML Capabilities
-
-- ✅ Regression, Classification, Clustering  
-- ✅ Natural Language Processing (NLP)  
-- ✅ Model evaluation and fine-tuning  
-- ✅ Deployment and dashboards with **Streamlit**
-
----
-
 **Let’s connect** if you're working on exciting ML, bioinformatics, or full-stack data projects! I love blending science and code to build useful, insightful tools. 🤝
