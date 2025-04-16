@@ -1,4 +1,9 @@
-A Bioinformatician blending science with code — building intelligent tools from bacteria to the browser.
+## 🧬 From Biology to Tech
+
+I'm a **full-time Bioinformatician** passionate about merging biological data with intelligent systems.  
+While my core expertise lies in genomics and data science, I'm actively expanding into **machine learning** and **deep learning**.  
+I enjoy building end-to-end solutions that transform raw data into meaningful, accessible insights.
+
 
 ---
 
