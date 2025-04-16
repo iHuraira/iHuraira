@@ -13,7 +13,7 @@ I'm a **full-time Bioinformatician** passionate about merging biological data wi
 
 ---
 
-## 🧬 Bioinformatics Focus
+## 🧬 Bioinformatics
 
 I specialize in **microbial (bacterial) genomics**, with a hands-on approach to building scalable NGS data analysis pipelines — from **raw reads to biologically meaningful outputs**.
 
@@ -25,10 +25,10 @@ I specialize in **microbial (bacterial) genomics**, with a hands-on approach to 
 - Data visualization using **heatmaps**, **density plots**, and **aggregations**
 
 ---
- 
-## 🎯 Tech Stack
 
-### 🖥️ Front-End
+## 🖥️ Front-End
+
+### 🎯 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
@@ -43,7 +43,9 @@ I specialize in **microbial (bacterial) genomics**, with a hands-on approach to 
 
 ---
 
-### 📈 Data Science & Machine Learning
+## 📈 Data Science & Machine Learning
+
+### 🎯 Tech Stack
 
 **Core Tools**:  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
