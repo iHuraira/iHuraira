@@ -17,16 +17,18 @@ Hi! I'm a **full-time Bioinformatician** with a strong passion for building inte
 
 ### 🖥️ Front-End Development
 
-| Tech       | Proficiency |
-|------------|-------------|
-| **HTML5 / CSS3 / JS** | ✅ |
-| **Tailwind CSS** | ✅ |
-| **SaaS** | ✅ |
-| **Redux** | 🟡 *(Familiar)* |
-| **React.js** | 🔵 🔵 🔵 🔵 ⚪ *(4/5)* |
-| **Vue.js**   | 🔵 🔵 🔵 🔵 ⚪ *(4/5)* |
+**Core Tools**:  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
+![SaaS](https://img.shields.io/badge/-SaaS-CC6699?logo=sass&logoColor=white&style=flat-square)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
 
----
+**Frameworks**:  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) ⭐⭐⭐⭐☆
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square) ⭐⭐⭐⭐☆
+
 
 ### 📈 Data Science & ML
 
