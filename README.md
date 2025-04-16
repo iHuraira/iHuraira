@@ -13,6 +13,24 @@ Hi! I'm a **full-time Bioinformatician** with a strong passion for building inte
 
 ---
 
+### 🧬 Bioinformatics Background
+
+As a full-time **Bioinformatician**, I have a strong passion for exploring microbial datasets — with a particular focus on **bacterial genomics**. My work bridges the gap between raw sequencing data and actionable biological insights.
+
+#### 🧪 Areas of Expertise:
+- 🧫 Analysis of microbial (bacterial) genomic datasets
+- 🧬 Development of **Next-Generation Sequencing (NGS) pipelines**, handling the entire workflow — from raw reads to high-quality, processed data
+- 🧠 Design and implementation of pipelines for:
+  - **Gene enrichment analysis**
+  - **Pangenome construction**
+  - **Vaccine target discovery**
+
+I regularly work with complex biological data, using tools like **heatmaps**, **density plots**, and **aggregated visualizations** to derive meaningful patterns and present results effectively.
+
+This combination of domain knowledge and technical skills allows me to build scalable, reproducible pipelines that support deeper biological discovery.
+
+---
+
 ## 🎯 Tech Stack
 
 ### 🖥️ Front-End Development
