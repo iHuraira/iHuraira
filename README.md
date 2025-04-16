@@ -1,6 +1,4 @@
-## 👋 About Me
-
-I'm a **full-time Bioinformatician** with a strong passion for building intelligent systems and extracting insights from complex biological and real-world datasets. While my core expertise lies in bioinformatics and data science, I'm currently deepening my skills in **machine learning** (above-intermediate level) and exploring **deep learning** technologies.
+A Bioinformatician blending science with code — building intelligent tools from bacteria to the browser.
 
 ---
 
